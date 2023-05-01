@@ -25,6 +25,6 @@ To contribute to Hostify, simply fork this repository, make your changes, and su
 
 ## Contact Us
 
-If you have any questions or concerns about Hostify, or if you'd like to learn more about our services, please don't hesitate to get in touch. You can reach us by email at [contact@hostify.com](mailto:contact@hostify.com), or by opening an issue on this repository.
+If you have any questions or concerns about Hostify, or if you'd like to learn more about our services, please don't hesitate to get in touch. You can reach us by email at [contact@hostify.gg](mailto:contact@hostify.gg), or by opening an issue on this repository.
 
 Thank you for choosing Hostify for your hosting needs!
